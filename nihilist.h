@@ -14,4 +14,5 @@ string removeNonLetters(string s);
 
 string removeNonNumbers(string s);
 
+>>>>>>> 01ba30fe3b3a2a63af83b53a3a44f710dafc5ff3
 #endif

@@ -283,4 +283,5 @@ string nihilist(string k1, string k2, string s, bool encrypt) {
 int main() {
 	cout << nihilist("Playfair", "Paris", "24 58 67 34 68 45 26 67 46 57 64 54", false) << endl;
 	return 0;
+>>>>>>> 01ba30fe3b3a2a63af83b53a3a44f710dafc5ff3
 }
